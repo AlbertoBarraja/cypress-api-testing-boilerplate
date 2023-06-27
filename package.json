@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "cypress": "^12.16.0"
+  },
+  "dependencies": {
+    "cypress-plugin-api": "^2.11.1"
+  }
+}

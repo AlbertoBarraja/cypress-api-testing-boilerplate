@@ -1,0 +1,9 @@
+# Dependency directory
+node_modules
+/**/cypress/videos
+/**/cypress/screenshots
+/**/cypress/downloads
+
+# Environment Variables
+cypress.env.json
+.env

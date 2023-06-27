@@ -1,0 +1,72 @@
+[
+    {
+    "id": 3283652,
+    "name": "Devika Deshpande",
+    "email": "devika_deshpande@rempel-schimmel.example",
+    "gender": "female",
+    "status": "inactive"
+    },
+    {
+    "id": 3283651,
+    "name": "Fr. Eshana Mehra",
+    "email": "mehra_fr_eshana@adams-abshire.test",
+    "gender": "male",
+    "status": "active"
+    },
+    {
+    "id": 3283650,
+    "name": "Charvi Varman",
+    "email": "charvi_varman@wintheiser.test",
+    "gender": "male",
+    "status": "active"
+    },
+    {
+    "id": 3283649,
+    "name": "Chandani Ahluwalia",
+    "email": "ahluwalia_chandani@mueller.example",
+    "gender": "male",
+    "status": "inactive"
+    },
+    {
+    "id": 3283648,
+    "name": "Chitrangada Banerjee",
+    "email": "banerjee_chitrangada@streich.test",
+    "gender": "female",
+    "status": "inactive"
+    },
+    {
+    "id": 3283647,
+    "name": "Diptendu Abbott",
+    "email": "diptendu_abbott@ernser.example",
+    "gender": "female",
+    "status": "inactive"
+    },
+    {
+    "id": 3283646,
+    "name": "Kashyapi Kaur",
+    "email": "kaur_kashyapi@corwin-murazik.example",
+    "gender": "male",
+    "status": "active"
+    },
+    {
+    "id": 3283645,
+    "name": "Mohinder Gupta",
+    "email": "mohinder_gupta@ritchie-robel.test",
+    "gender": "male",
+    "status": "active"
+    },
+    {
+    "id": 3283644,
+    "name": "Gobinda Butt",
+    "email": "gobinda_butt@schowalter.example",
+    "gender": "male",
+    "status": "inactive"
+    },
+    {
+    "id": 3283643,
+    "name": "Bhisham Gowda DC",
+    "email": "gowda_bhisham_dc@upton.test",
+    "gender": "male",
+    "status": "inactive"
+    }
+]
