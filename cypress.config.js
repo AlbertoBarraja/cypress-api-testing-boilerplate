@@ -7,11 +7,14 @@ module.exports = defineConfig({
     },
     env: {
       "baseUrl" : "https://gorest.co.in",
-      "apiKey": "63d40b00fe39f422bf7a73e9862f0eb7868436fe09305eaec32a44dbce7a0e59",
+      "Authorization": "Bearer 63d40b00fe39f422bf7a73e9862f0eb7868436fe09305eaec32a44dbce7a0e59",
       "usersEndPoint": "/public/v2/users/",
-      "userPostsNestedResource": "/posts",
-      "userCommentsNestedResource": "/comments",
-      "userToDosNestedResource": "/todos"
+      "postsEndPoint": "/public/v2/posts/",
+      "commentsEndPoint": "/public/v2/comments/",
+      "todosEndPoint": "/public/v2/todos/",
+      "postsNestedResource": "/posts",
+      "commentsNestedResource": "/comments",
+      "todosNestedResource": "/todos"
     }
   },
 });

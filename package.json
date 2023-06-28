@@ -1,5 +1,9 @@
 {
   "devDependencies": {
+    "ajv": "^8.12.0",
+    "chai": "^4.3.7",
+    "chai-json-schema": "^1.5.1",
+    "chai-json-schema-ajv": "^5.2.4",
     "cypress": "^12.16.0"
   },
   "dependencies": {
