@@ -12,14 +12,14 @@
  * @returns {void}
  */
 
-import userListResponseSchema from "../../fixtures/response-schemas/userListResponseSchema.json";
-import userDetailResponseScema from "../../fixtures/response-schemas/userDetailResponseScema.json";
-import userPostsResponseSchema from "../../fixtures/response-schemas/userPostsResponseSchema.json";
-import userTodosResponseSchema from "../../fixtures/response-schemas/userTodosResponseSchema.json";
-import createUserTestData from "../../fixtures/test-data/createUserTestData.json";
-import updatedUserTestData from "../../fixtures/test-data/updatedUserTestData.json";
-import deletedUserTestData from "../../fixtures/test-data/deletedUserTestData.json";
-import {assertResponseBody}   from "../test-steps/testUtilities.js" 
+import userListResponseSchema from "../../../fixtures/response-schemas/examples/userListResponseSchema.json";
+import userDetailResponseScema from "../../../fixtures/response-schemas/examples/userDetailResponseScema.json";
+import userPostsResponseSchema from "../../../fixtures/response-schemas/examples/userPostsResponseSchema.json";
+import userTodosResponseSchema from "../../../fixtures/response-schemas/examples/userTodosResponseSchema.json";
+import createUserTestData from "../../../fixtures/test-data/examples/createUserTestData.json";
+import updatedUserTestData from "../../../fixtures/test-data/examples/updatedUserTestData.json";
+import deletedUserTestData from "../../../fixtures/test-data/examples/deletedUserTestData.json";
+import {assertResponseBody}   from "../../test-steps/testUtilities.js" 
 
 const endpoint = Cypress.env('usersEndPoint');
 

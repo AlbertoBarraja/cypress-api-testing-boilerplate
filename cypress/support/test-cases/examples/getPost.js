@@ -12,9 +12,9 @@
  * @returns {void}
  */
 
-import postListResponseSchema from "../../../fixtures/response-schemas/postListResponseSchema.json";
-import postDetailResponseSchema from "../../../fixtures/response-schemas/postDetailResponseSchema.json";
-import commentListResponseSchema from "../../../fixtures/response-schemas/commentListResponseSchema.json";
+import postListResponseSchema from "../../../fixtures/response-schemas/examples/postListResponseSchema.json";
+import postDetailResponseSchema from "../../../fixtures/response-schemas/examples/postDetailResponseSchema.json";
+import commentListResponseSchema from "../../../fixtures/response-schemas/examples/commentListResponseSchema.json";
 import {assertResponseBody}   from "../../test-steps/testUtilities.js" 
 
 const endpoint = Cypress.env('postsEndPoint');

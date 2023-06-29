@@ -11,9 +11,9 @@
  * */ 
 
 
-import {getPostList200OK}  from "../../support/test-cases/examples/getPost";
-import {getPostDetail200OK}  from "../../support/test-cases/examples/getPost";
-import {getPostComments200OK}  from "../../support/test-cases/examples/getPost";
+import {getPostList200OK}  from "../../../support/test-cases/examples/getPost";
+import {getPostDetail200OK}  from "../../../support/test-cases/examples/getPost";
+import {getPostComments200OK}  from "../../../support/test-cases/examples/getPost";
 
 describe("Test Suite #001: GET /public/v2/posts/ ", () => {
   
